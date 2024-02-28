@@ -94,7 +94,7 @@
     "moveId": "AQUA_TAIL",
     "name": "Aqua Tail",
     "type": "water",
-    "power": 50,
+    "power": 55,
     "energy": 35,
     "energyGain": 0,
     "cooldown": 500,
@@ -242,7 +242,10 @@
     "energy": 35,
     "energyGain": 0,
     "cooldown": 500,
-    "archetype": "Spam/Bait"
+    "buffs": [0, -1],
+    "buffTarget": "opponent",
+    "buffApplyChance": "1",
+    "archetype": "Debuff Spam/Bait"
 }, {
     "moveId": "BRUTAL_SWING",
     "name": "Brutal Swing",
@@ -405,7 +408,7 @@
     "name": "Cross Chop",
     "abbreviation": "CrC",
     "type": "fighting",
-    "power": 50,
+    "power": 55,
     "energy": 35,
     "energyGain": 0,
     "cooldown": 500,
@@ -451,6 +454,15 @@
     "type": "dark",
     "power": 80,
     "energy": 50,
+    "energyGain": 0,
+    "cooldown": 500,
+    "archetype": "General"
+}, {
+    "moveId": "DARKEST_LARIAT",
+    "name": "Darkest Lariat",
+    "type": "dark",
+    "power": 120,
+    "energy": 60,
     "energyGain": 0,
     "cooldown": 500,
     "archetype": "General"
@@ -1549,6 +1561,15 @@
     "cooldown": 1000,
     "archetype": "Low Quality"
 }, {
+    "moveId": "METAL_SOUND",
+    "name": "Metal Sound",
+    "type": "steel",
+    "power": 3,
+    "energy": 0,
+    "energyGain": 8,
+    "cooldown": 1000,
+    "archetype": "Low Quality"
+}, {
     "moveId": "METEOR_BEAM",
     "abbreviation": "MeB",
     "name": "Meteor Beam",
@@ -1670,6 +1691,14 @@
     "buffTarget": "opponent",
     "buffApplyChance": "1",
     "archetype": "Debuff"
+}, {
+    "moveId": "NATURES_MADNESS",
+    "name": "Nature's Madness",
+    "type": "fairy",
+    "power": 90,
+    "energy": 55,
+    "energyGain": 0,
+    "archetype": "General"
 }, {
     "moveId": "NIGHT_SHADE",
     "name": "Night Shade",
@@ -2009,6 +2038,15 @@
     "cooldown": 500,
     "archetype": "General"
 }, {
+    "moveId": "PSYWAVE",
+    "name": "Psywave",
+    "type": "psychic",
+    "power": 3,
+    "energy": 0,
+    "energyGain": 2,
+    "cooldown": 500,
+    "archetype": "Low Quality"
+}, {
     "moveId": "QUICK_ATTACK",
     "name": "Quick Attack",
     "type": "normal",
@@ -2136,6 +2174,15 @@
     "energyGain": 13,
     "cooldown": 1500,
     "archetype": "Fast Charge"
+},{
+    "moveId": "SAND_ATTACK",
+    "name": "Sand-Attack",
+    "type": "ground",
+    "power": 2,
+    "energy": 0,
+    "energyGain": 4,
+    "cooldown": 500,
+    "archetype": "Low Quality"
 }, {
     "moveId": "SACRED_FIRE",
     "name": "Sacred Fire",
@@ -2255,7 +2302,7 @@
     "name": "Shadow Bone",
     "abbreviation": "SBo",
     "type": "ghost",
-    "power": 75,
+    "power": 80,
     "energy": 45,
     "energyGain": 0,
     "cooldown": 500,
@@ -2779,6 +2826,15 @@
     "cooldown": 2000,
     "archetype": "Multipurpose"
 }, {
+    "moveId": "VOLT_TACKLE",
+    "name": "Volt Tackle",
+    "type": "electric",
+    "power": 90,
+    "energy": 50,
+    "energyGain": 0,
+    "cooldown": 500,
+    "archetype": "Multipurpose"
+}, {
     "moveId": "WATER_GUN",
     "name": "Water Gun",
     "type": "water",
@@ -2800,7 +2856,7 @@
     "moveId": "WATER_PULSE",
     "name": "Water Pulse",
     "type": "water",
-    "power": 70,
+    "power": 80,
     "energy": 60,
     "energyGain": 0,
     "cooldown": 500,

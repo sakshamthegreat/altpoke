@@ -1,6 +1,17 @@
 {
-	"name": "mega",
-	"title": "All Pokemon",
-	"include": [],
-	"exclude": []
+    "name": "mega",
+    "title": "All Pokemon",
+    "include": [],
+    "exclude": [
+        {
+            "filterType": "id",
+            "name": "Species",
+            "values": [
+                "groudon_primal",
+                "kyogre_primal",
+                "rayquaza_mega",
+                ""
+            ]
+        }
+    ]
 }
