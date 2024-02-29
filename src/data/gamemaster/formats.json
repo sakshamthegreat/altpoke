@@ -23,8 +23,17 @@
         "cup": "premier",
         "cp": 2500,
         "meta": "premierultra",
-        "showCup": false,
-        "showFormat": false,
+        "showCup": true,
+        "showFormat": true,
+        "showMeta": true
+    },
+    {
+        "title": "GL Remix",
+        "cup": "remix",
+        "cp": 1500,
+        "meta": "remix",
+        "showCup": true,
+        "showFormat": true,
         "showMeta": true
     },
     {
@@ -46,23 +55,15 @@
         "showMeta": true
     },
     {
-        "title": "Catch Cup",
-        "cup": "catch",
+        "title": "Electric Cup",
+        "cup": "electric",
         "cp": 1500,
-        "meta": "catch",
+        "meta": "electric",
         "showCup": true,
         "showFormat": true,
         "showMeta": true
     },
-    {
-        "title": "Little Catch Cup",
-        "cup": "littlecatch",
-        "cp": 500,
-        "meta": "littlecatch",
-        "showCup": true,
-        "showFormat": true,
-        "showMeta": true
-    },
+
     {
         "title": "P!P Championship Series",
         "cup": "great",
