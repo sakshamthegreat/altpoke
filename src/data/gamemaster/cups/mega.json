@@ -10,6 +10,13 @@
                 "groudon_primal",
                 "kyogre_primal",
                 "rayquaza_mega",
+		"swampert_mega",
+		"charizard_mega_y",
+		"gardevoir_mega",
+		"gyarados_mega",
+		"latias_mega",
+		"latios_mega",
+		"garchomp_mega",
                 ""
             ]
         }
