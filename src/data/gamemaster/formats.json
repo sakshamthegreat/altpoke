@@ -64,10 +64,10 @@
         "showMeta": true
     },
     {
-        "title": "Electric Cup",
-        "cup": "electric",
+        "title": "Jungle Cup",
+        "cup": "jungle",
         "cp": 1500,
-        "meta": "electric",
+        "meta": "jungle",
         "showCup": true,
         "showFormat": true,
         "showMeta": true
