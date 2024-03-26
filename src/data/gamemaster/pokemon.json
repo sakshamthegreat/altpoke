@@ -32865,7 +32865,7 @@
     },
     "types": ["dragon", "fighting"],
     "fastMoves": ["POISON_JAB", "DRAGON_TAIL"],
-    "chargedMoves": ["DRAGON_CLAW", "CLOSE_COMBAT", "FLAMETHROWER", "BOOMBURST"],
+    "chargedMoves": ["DRAGON_CLAW", "CLOSE_COMBAT", "FLAMETHROWER", "BOOMBURST", "BRICK_BREAK"],
     "defaultIVs": {
         "cp500": [6, 5, 6, 4],
         "cp1500": [16.5, 6, 15, 14],

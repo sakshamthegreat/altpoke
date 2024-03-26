@@ -239,7 +239,7 @@
     "abbreviation": "BkB",
     "type": "fighting",
     "power": 40,
-    "energy": 35,
+    "energy": 40,
     "energyGain": 0,
     "cooldown": 500,
     "buffs": [0, -1],
