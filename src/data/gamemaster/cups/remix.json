@@ -4,7 +4,7 @@
 	"include": [],
 	"exclude": [{
 		"filterType": "id",
-		"values": ["lanturn", "azumarill", "umbreon", "medicham", "registeel",  "deoxys_defense", "bastiodon",  "stunfisk_galarian", "trevenant", "talonflame", "sandslash_alolan", "wigglytuff", "altaria", "wigglytuff", "lickitung", "skarmory", "vigoroth", "whiscash", "charjabug", "skelidirge", "clodsire"],
+		"values": ["sandslash_alolan", "wigglytuff", "lickitung", "lanturn", "azumarill", "umbreon", "skarmory", "vigoroth", "medicham", "whiscash", "altaria", "registeel", "deoxys_defense", "bastiodon", "stunfisk_galarian", "talonflame", "trevenant", "charjabug", "skeledirge", "clodsire"],
 		"leagues": [1500]
 	}, {
 		"filterType": "id",

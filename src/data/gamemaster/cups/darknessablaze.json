@@ -1,0 +1,68 @@
+{
+    "name": "darknessablaze",
+    "title": "Darkness Ablaze",
+    "include": [
+        {
+            "filterType": "type",
+            "name": "Type",
+            "values": [
+                "dark",
+                "electric",
+                "fire",
+                "normal"
+            ]
+        },
+        {
+            "filterType": "id",
+            "name": "Species",
+            "values": [
+                "deoxys_defense",
+                "toxapex",
+                "qwilfish",
+                "castform_rainy",
+                "goodra",
+                "lurantis",
+                "hippowdon",
+                "hippowdon_shadow",
+                "gliscor",
+                "gliscor_shadow"
+            ]
+        }
+    ],
+    "exclude": [
+        {
+            "filterType": "id",
+            "name": "Species",
+            "values": [
+                "blaziken",
+                "blaziken_shadow",
+                "guzzlord",
+                "scrafty",
+                "obstagoon",
+                "vigoroth",
+                "lickitung",
+                "lanturn",
+                "stunfisk",
+                "diggersby",
+                "greninja",
+                "umbreon",
+                "mandibuzz",
+                "wigglytuff",
+                "talonflame",
+                ""
+            ]
+        },
+        {
+            "filterType": "tag",
+            "name": "Tag",
+            "values": [
+                "mega"
+            ]
+        }
+    ],
+    "overrides": [],
+    "league": 1500,
+    "useDefaultMovesets": 1,
+    "excludeLowPokemon": 0,
+    "levelCap": 50
+}
