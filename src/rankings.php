@@ -59,8 +59,8 @@ switch($cup){
 		$league = 'Retro Cup';
 		break;
 
-	case "electric":
-		$league = 'Electric Cup';
+	case "fossil":
+		$league = 'Fossil Cup';
 		break;
 
 	case "summer":
@@ -75,8 +75,8 @@ switch($cup){
 		$league = 'Devon Sovereign Cup';
 		break;
 
-	case "rainstorm":
-		$league = 'Devon Rainstorm Cup';
+	case "devonchampionship":
+		$league = 'devonchampionship';
 		break;
 
 	case "tundra":
@@ -99,16 +99,20 @@ switch($cup){
 		$league = 'Mega Master League';
 		break;
 
-	case "enchanted":
-		$league = 'Battle Frontier (Enchanted)';
+	case "polaris":
+		$league = 'Battle Frontier (Polaris)';
 		break;
 
-	case "primordial":
-		$league = 'Battle Frontier (Primordial)';
+	case "wasteland":
+		$league = 'Battle Frontier (Wasteland)';
 		break;
 
-	case "serene":
-		$league = 'Battle Frontier (Serene)';
+	case "battlefrontiergreat":
+		$league = 'Battle Frontier (Master)';
+		break;
+
+	case "battlefrontierultra":
+		$league = 'Battle Frontier (Master)';
 		break;
 
 	case "battlefrontiermaster":
@@ -121,6 +125,18 @@ switch($cup){
 
 	case "evolution":
 		$league = 'Evolution Cup';
+		break;
+
+	case "fantasy":
+		$league = 'Fantasy Cup';
+		break;
+
+	case "galar":
+		if($cp == "500"){
+			$league = 'Little Galar Cup';
+		} else {
+			$league = 'Galar Cup';
+		}
 		break;
 
 	case "remix":

@@ -73,18 +73,6 @@ var RankerMaster = (function () {
 
 				for(var i = 0; i < team.length; i++){
 					teamRatings.push([]);
-
-					// Adjust IVs as needed
-					if((overrideSettings[0].ivs != "gamemaster")&&(overrideSettings[0].ivs != "original")){
-						team[i].levelCap = overrideSettings[0].levelCap;
-						team[i].maximizeStat(overrideSettings[0].ivs);
-					} else if((overrideSettings[0].ivs == "gamemaster")&&(team[i].isCustom)){
-						team[i].isCustom = false;
-						team[i].initialize(battle.getCP());
-						if(team[i].baitShields != 1){
-							team[i].isCustom = true;
-						}
-					}
 				}
 
 				rankings = [];
@@ -152,7 +140,7 @@ var RankerMaster = (function () {
 						moveset.chargedMoves.push(pokemon.chargedMoves[n]);
 					}
 
-					if((overrideSettings[1].ivs != "gamemaster")&&(overrideSettings[1].ivs != "original")){
+					/*if((overrideSettings[1].ivs != "gamemaster")&&(overrideSettings[1].ivs != "original")){
 						pokemon.levelCap = overrideSettings[1].levelCap;
 						pokemon.maximizeStat(overrideSettings[1].ivs);
 					} else if((overrideSettings[1].ivs == "gamemaster")&&(pokemon.isCustom)){
@@ -161,7 +149,7 @@ var RankerMaster = (function () {
 						if(pokemon.baitShields != 1){
 							pokemon.isCustom = true;
 						}
-					}
+					}*/
 
 					rankObj.moveset = moveset;
 

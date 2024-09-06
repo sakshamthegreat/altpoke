@@ -3,6 +3,94 @@
 
 	<channel>
 		<item>
+			<title>Site Updated for New Season Changes</title>
+			<description>
+				<![CDATA[The site is updated with simulations, rankings, team building, and training for Pokemon GO: Max Out! This season brings the biggest balance update PvP has ever seen, with significant move buffs and nerfs that flip the previous meta on its head. Now's the time to try out brand new Pokemon and see which emerge as early favorites!]]>
+			</description>
+			<link>https://pvpoke.com/rankings/all/1500/overall/</link>
+			<pubDate>Tue, 03 Sep 2024 17:37:24 GMT</pubDate>
+		</item>
+		<item>
+			<title>Great League Starter Pack</title>
+			<description>
+				<![CDATA[With the Worlds Championship underway and the current season nearing its close, here's a starter pack to jump into Great League! This graphic highlights key Pokemon and budget options if you're a first time player or just getting back into battling.]]>
+			</description>
+			<link>https://pvpoke.com/articles/infographics/24-08-shared-skies-great-league-starter-pack/</link>
+			<pubDate>Fri, 16 Aug 2024 16:30:42 GMT</pubDate>
+		</item>
+		<item>
+			<title>New Shadow Rankings</title>
+			<description>
+				<![CDATA[New Shadows are debuting, including Shadow Cresselia! The Shadow version sacrifices its signature bulk for extra attack power. While Cresselia isn't the best Pokemon to take advantage of the Shadow boost, its Shadow version is still strong and worth using if you don't have access to regular Cresselia. Stay tuned for the World Championship event where you will be able to catch a regular Cresselia in special research as well!]]>
+			</description>
+			<link>https://pvpoke.com/rankings/all/1500/overall/cresselia_shadow/</link>
+			<pubDate>Wed, 07 Aug 2024 14:32:56 GMT</pubDate>
+		</item>
+		<item>
+			<title>Fossil Cup Rankings</title>
+			<description>
+				<![CDATA[Fossil Cup returns next week, and looks to center around Poliwrath and Ferrothorn. These two face few corebreakers except for Quaquaval, who could see anti-meta play. Electric types like Lanturn and Magnezone should also prove crucial if they can avoid Grass. We'll have this cup for two weeks so there will be plenty of time to dig up the meta!]]>
+			</description>
+			<link>https://pvpoke.com/rankings/fossil/1500/overall/</link>
+			<pubDate>Wed, 24 Jul 2024 17:02:36 GMT</pubDate>
+		</item>
+		<item>
+			<title>Great and Ultra League Top Performers</title>
+			<description>
+				<![CDATA[I've updated training analysis for Great and Ultra League with the past few weeks of data. In Great League, things look relatively stable although note that some Remix practice may impact this dataset. Water Gun Lanturn and Quagsire are still proving to be top options, while top teams are trending more toward Fast Attack pressure with the likes of Wigglytuff, Victreebel, Bastiodon, and Dragonair.]]>
+			</description>
+			<link>https://pvpoke.com/train/analysis/</link>
+			<pubDate>Sun, 21 Jul 2024 14:13:53 GMT</pubDate>
+		</item>
+		<item>
+			<title>Eelektross Rankings</title>
+			<description>
+				<![CDATA[Tynamo Community Day is this weekend, and Eelektross will receive the Fast Attack Volt Switch. Eelektross is best with Volt Switch, but unfortunately won't be meta relevant over other Electric picks like Charjabug, Lanturn, or Magnezone. Catch a few just in case!]]>
+			</description>
+			<link>https://pvpoke.com/rankings/all/1500/overall/eelektross/</link>
+			<pubDate>Fri, 19 Jul 2024 15:53:01 GMT</pubDate>
+		</item>
+		<item>
+			<title>Master League Top Performers</title>
+			<description>
+				<![CDATA[Master League top performers have been updated with results from the site's training battles so far this season. Both Dawn Wings and Dusk Mane Necrozma have put on impressive debuts, topping the individual and team lists. Now that both are globally available, we may see Master League go through some upheaval to adjust, including a clearer role for Yveltal.<br><br>]]>
+			</description>
+			<link>https://pvpoke.com/train/analysis/all/10000/</link>
+			<pubDate>Wed, 17 Jul 2024 14:12:09 GMT</pubDate>
+		</item>
+		<item>
+			<title>Custom Group Transformations</title>
+			<description>
+				<![CDATA[When you work with custom groups in Multi-Battle or Matrix Battle, the "IVs" options have now been reworked to apply the selected option to the whole group. This includes a "best buddy" option to set all members of a group to level 51 for Master League.]]>
+			</description>
+			<link>https://pvpoke.com/battle/matrix/</link>
+			<pubDate>Tue, 16 Jul 2024 15:01:52 GMT</pubDate>
+		</item>
+		<item>
+			<title>Fantasy Cup Rankings</title>
+			<description>
+				<![CDATA[Fantasy Cup (Great League Edition) returns in a few weeks for Dragon, Fairy, and Steel types to clash. This format has few changes from its run earlier this year, so teams from January should work just as well now. <br><br>Steel Wing and Shadow Empoleon are the biggest additions, resisting all moves from Azumarill and putting up a fight against Dragons and Galarian Stunfisk. Tapu Fini now has Nature's Madness as well, closing the gap between it and Azumarill and making ABB teams with both more potent. Lastly, Thunder Punch is arguably a better coverage move for Lucario than Blaze Kick, but both are viable options.]]>
+			</description>
+			<link>https://pvpoke.com/rankings/fantasy/1500/overall/</link>
+			<pubDate>Mon, 08 Jul 2024 12:14:35 GMT</pubDate>
+		</item>
+		<item>
+			<title>Great League Top Performers</title>
+			<description>
+				<![CDATA[The first training analysis of the season highlights Water Gun Lanturn, Quagsire, and Goodra as new elements to the meta. While this season doesn't have too many changes, some familiar faces are bringing new tricks. Fire types like Skeledirge and Typhlosion are also standing surprisingly strong against the Water types, and old favorites like Umbreon and Sableye appear to have a chance for a comeback.<br><br>Among the top performing teams, a Normal type such as Lickitung or Vigoroth seems to be the common glue holding these teams together. Both Pokemon are flexible and favor neutral play. At the same time, Fast Attack pressure teams with Bastiodon, Victreebel, Wigglytuff, Dragonair, and similar picks are also standing the test of time against the early season. Best of luck the rest of the week!]]>
+			</description>
+			<link>https://pvpoke.com/train/analysis/</link>
+			<pubDate>Mon, 24 Jun 2024 19:03:55 GMT</pubDate>
+		</item>
+		<item>
+			<title>Great League Ranking Updates</title>
+			<description>
+				<![CDATA[With NAIC behind us, I've brushed up the Great League rankings and meta group based on early usage so far. I've also adjusted a few recommended movesets—Cresselia is now back to Moonblast and Talonflame features a double Flying moveset that has been prominent in tournament play. As always, the rankings are just a starting point. Good luck in your upcoming battles!]]>
+			</description>
+			<link>https://pvpoke.com/rankings/all/1500/overall/</link>
+			<pubDate>Tue, 18 Jun 2024 01:03:30 GMT</pubDate>
+		</item>
+		<item>
 			<title>Goomy Community Day Guide</title>
 			<description>
 				<![CDATA[Goodra has been on the outside looking in on the Great League meta. Will Thunder Punch help it punch a ticket to competitive success? This guide covers IV's to look for and the pros and cons to Goodra's multiple movesets. Good luck this weekend!]]>
@@ -41,94 +129,6 @@
 			</description>
 			<link>https://pvpoke.com/shared-skies/rankings/all/1500/overall/</link>
 			<pubDate>Sat, 25 May 2024 19:09:19 GMT</pubDate>
-		</item>
-		<item>
-			<title>Site Update 1.31.9</title>
-			<description>
-				<![CDATA[The site has been updated with a few new features and fixes:<br><br>- In single battles, you can select "1 turn switch" under a Pokemon's options to simulate the battle with 1 turn of delay for that Pokemon. The optimal move timing guide also reflects the 1 turn delay.<br>- Matchup differences in Matrix Battle are now color coded with the gradient to reflect which differences are hard wins, soft wins, etc.<br>- Fixed an issue where battle time was being calculated incorrectly for mirror matchups.]]>
-			</description>
-			<link>https://pvpoke.com/#news</link>
-			<pubDate>Fri, 24 May 2024 16:14:31 GMT</pubDate>
-		</item>
-		<item>
-			<title>New Ultra Beast Rankings</title>
-			<description>
-				<![CDATA[Three new Ultra Beasts are coming, including Stakataka, Blacephalon, and Naganadel, which can evolve from Poipole. Unfortunately, none of them are noteworthy for PvP at this time. Blacephalon and Naganadel suffer from incredibly low stat product while Stakataka doesn't have the moves to stand out. Keep a lookout for more Ultra Beasts in the future!]]>
-			</description>
-			<link>https://pvpoke.com/rankings/all/10000/overall/blacephalon/</link>
-			<pubDate>Wed, 22 May 2024 15:07:24 GMT</pubDate>
-		</item>
-		<item>
-			<title>Catch Cup Rankings</title>
-			<description>
-				<![CDATA[Rankings are now available for Catch Cup (Great League Edition). These rankings implement usage data from the first few days to highlight which Pokemon may have an advantage in the current meta. For example, Carbink has strong matchups against popular Pokemon like Mandibuzz, Mantine, Skeledirge, and Charjabug. As always, Catch Cup is restricted to the best Pokemon available to you, so your mileage may vary. Good luck the rest of the season!]]>
-			</description>
-			<link>https://pvpoke.com/catch/1500/overall/</link>
-			<pubDate>Mon, 20 May 2024 20:26:45 GMT</pubDate>
-		</item>
-		<item>
-			<title>Tsareena Rankings</title>
-			<description>
-				<![CDATA[It's Bounsweet Community Day this weekend, and Tsareena will receive a new move, High Jump Kick. This Fighting-type nuke has a 10% chance to lower your Defense by 4 stages, so it comes with a big risk. Tsareena seems to be best with Triple Axel and High Jump Kick. However, it struggles to stand out among stronger Grass types like Abomasnow or Chesnaught, who benefit from STAB. I'd recommend obtaining High Jump Kick Tsareena just in case!]]>
-			</description>
-			<link>https://pvpoke.com/rankings/all/1500/overall/tsareena/</link>
-			<pubDate>Sat, 18 May 2024 13:22:22 GMT</pubDate>
-		</item>
-		<item>
-			<title>Tapu Fini Rankings</title>
-			<description>
-				<![CDATA[Tapu Fini is the last to receive Nature's Madness, and it's a notable buff for the Water/Fairy Pokemon! Nature's Madness isn't as powerful as Moonblast, but the lower energy cost and the guaranteed Defense drop make Tapu Fini more flexible and dynamic. It's worth grabbing Tapu Fini if you don't have one already, and Nature's Madness is worthy of an Elite TM.]]>
-			</description>
-			<link>https://pvpoke.com/rankings/all/2500/overall/tapu_fini/</link>
-			<pubDate>Wed, 01 May 2024 16:48:19 GMT</pubDate>
-		</item>
-		<item>
-			<title>Rankings Performance Comparison</title>
-			<description>
-				<![CDATA[I've added a small new feature that lets you compare the "Performance" details of two Pokemon in the rankings. Click the "Compare" button to select a Pokemon, and then you'll be able to compare their performance charts and numbers for each ranking category. You can use this to compare two similar Pokemon or two forms (such as Shadow vs non-Shadow).]]>
-			</description>
-			<link>https://pvpoke.com/rankings/all/1500/overall/</link>
-			<pubDate>Fri, 26 Apr 2024 18:31:30 GMT</pubDate>
-		</item>
-		<item>
-			<title>Updated Top Performers</title>
-			<description>
-				<![CDATA[Top performers have been updated on the Training Analysis page with top performing Pokemon and teams for all three leagues from the past month of training battles. Check them out if you need some team ideas!]]>
-			</description>
-			<link>https://pvpoke.com/train/analysis/</link>
-			<pubDate>Tue, 23 Apr 2024 14:50:19 GMT</pubDate>
-		</item>
-		<item>
-			<title>Great League Remix Rankings</title>
-			<description>
-				<![CDATA[This season's Great League Remix bans several of the league's most infamous Pokemon, while others such as Gligar and Annihilape slip through the cracks. Similar to previous Remixes, Dragon, Dark, and Ice-type Pokemon stand to gain from banning the strongest Steels and Fairies. Empoleon, Steelix, Carbink, and Alolan Ninetales look ready to step up to the plate but face their fair share of challenges as well.<br><br>One of the biggest questions is which Electric types will fill the gap left by Lanturn and Charjabug? Magnezone has seen recent tournament success while Dedenne could potentially thrive in an anti-meta role thanks to its Fairy typing. Good luck preparing!]]>
-			</description>
-			<link>https://pvpoke.com/rankings/remix/1500/overall/</link>
-			<pubDate>Mon, 22 Apr 2024 00:25:41 GMT</pubDate>
-		</item>
-		<item>
-			<title>Bellsprout Community Day Guide</title>
-			<description>
-				<![CDATA[Bellsprout Community Day will be giving Victreebel access to Magical Leaf! Here's a quick guide to Fast Moves for your Victreebel and IV's to watch out for this weekend. Enjoy your Community Day!]]>
-			</description>
-			<link>https://pvpoke.com/articles/community-day/24-04-bellsprout/</link>
-			<pubDate>Fri, 19 Apr 2024 17:01:08 GMT</pubDate>
-		</item>
-		<item>
-			<title>Master Premier and Tapu Bulu Rankings</title>
-			<description>
-				<![CDATA[Rankings are now available for Master Premier Cup, which returns in a few weeks! It will feature several Pokemon new to the format, including Annihilape, Feraligatr, Skeledirge, and Golisopod. While Dragonite, Gyarados, and Fairies should continue to define the meta, these new picks will look at add some twists and corebreakers. Good luck preparing!<br><br>In regular Master League, Tapu Bulu is debuting with its exclusive move, Nature's Madness. Tapu Bulu has higher stat product compared to some of its companions, and its typing gives it a potential niche against both Dragon types and Kyogre. Unfortunately, its struggles against Dialga and Ho-oh may limit it in the current meta.]]>
-			</description>
-			<link>https://pvpoke.com/rankings/premier/10000/overall/</link>
-			<pubDate>Wed, 10 Apr 2024 17:38:10 GMT</pubDate>
-		</item>
-		<item>
-			<title>Jungle Cup Training</title>
-			<description>
-				<![CDATA[Jungle Cup is now available on the site's Train feature. You can use it to practice your teams or experiment with new Pokemon. Good luck preparing your Vigoroth counters! Training Analysis for Jungle Cup may be available next week if there's enough data.]]>
-			</description>
-			<link>https://pvpoke.com/train/</link>
-			<pubDate>Mon, 08 Apr 2024 17:41:41 GMT</pubDate>
 		</item>
 
 		<title>PvPoke</title>
