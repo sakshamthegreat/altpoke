@@ -27,6 +27,15 @@
 		"showMeta": true
 	},
 	{
+		"title": "Willpower Cup",
+		"cup": "willpower",
+		"cp": 1500,
+		"meta": "willpower",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
 		"title": "Master League (Classic)",
 		"cup": "classic",
 		"cp": 10000,
