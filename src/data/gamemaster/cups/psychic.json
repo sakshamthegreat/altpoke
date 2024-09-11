@@ -1,0 +1,1 @@
+{"name":"psychic","title":"Psychic Cup","include":[{"filterType":"type","name":"Type","values":["psychic"]}],"exclude":[{"filterType":"tag","name":"Tag","values":["mega"]}],"overrides":[],"league":1500,"useDefaultMovesets":1}

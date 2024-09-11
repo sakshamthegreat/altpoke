@@ -18,6 +18,15 @@
 		"showMeta": true
 	},
 	{
+		"title": "Psychic Cup",
+		"cup": "psychic",
+		"cp": 1500,
+		"meta": "psychic",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
 		"title": "Halloween Cup",
 		"cup": "halloween",
 		"cp": 1500,
