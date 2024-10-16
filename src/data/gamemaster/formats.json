@@ -1,27 +1,9 @@
 [
 	{
-		"title": "Little Galar Cup",
-		"cup": "galar",
-		"cp": 500,
-		"meta": "galarlittle",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
-		"title": "Galar Cup",
-		"cup": "galar",
+		"title": "Retro Cup",
+		"cup": "retro",
 		"cp": 1500,
-		"meta": "galar",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
-		"title": "Psychic Cup",
-		"cup": "psychic",
-		"cp": 1500,
-		"meta": "psychic",
+		"meta": "retro",
 		"showCup": true,
 		"showFormat": true,
 		"showMeta": true
