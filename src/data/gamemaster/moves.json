@@ -1979,7 +1979,7 @@
     "name": "Rage Fist",
     "type": "ghost",
     "power": 50,
-    "energy": 45,
+    "energy": 35,
     "energyGain": 0,
     "cooldown": 500,
     "buffs": [1, 0],
