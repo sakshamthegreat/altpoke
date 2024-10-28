@@ -5,7 +5,11 @@
 }, {
     "speciesId": "annihilape",
     "fastMove": "COUNTER",
-    "chargedMoves": ["NIGHT_SLASH", "SHADOW_BALL"]
+    "chargedMoves": ["RAGE_FIST", "CLOSE_COMBAT"]
+}, {
+    "speciesId": "annihilape",
+    "fastMove": "COUNTER",
+    "chargedMoves": ["RAGE_FIST", "ICE_PUNCH"]
 }, {
     "speciesId": "avalugg_hisuian",
     "fastMove": "POWDER_SNOW",
