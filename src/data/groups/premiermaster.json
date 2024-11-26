@@ -32,6 +32,10 @@
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["HYDRO_CANNON", "ICE_BEAM"]
 }, {
+    "speciesId": "feraligatr_shadow",
+    "fastMove": "SHADOW_CLAW",
+    "chargedMoves": ["HYDRO_CANNON", "ICE_BEAM"]
+},{
     "speciesId": "florges",
     "fastMove": "FAIRY_WIND",
     "chargedMoves": ["DISARMING_VOICE", "MOONBLAST"]
@@ -39,6 +43,10 @@
     "speciesId": "garchomp",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["OUTRAGE", "EARTH_POWER"]
+}, {
+    "speciesId": "gholdengo",
+    "fastMove": "ASTONISH",
+    "chargedMoves": ["SHADOW_BALL", "FOCUS_BLAST"]
 }, {
     "speciesId": "golisopod",
     "fastMove": "SHADOW_CLAW",
@@ -68,6 +76,10 @@
     "fastMove": "SPARK",
     "chargedMoves": ["WILD_CHARGE", "MIRROR_SHOT"]
 }, {
+    "speciesId": "magnezone_shadow",
+    "fastMove": "SPARK",
+    "chargedMoves": ["WILD_CHARGE", "MIRROR_SHOT"]
+}, {
     "speciesId": "mamoswine",
     "fastMove": "POWDER_SNOW",
     "chargedMoves": ["AVALANCHE", "HIGH_HORSEPOWER"]
@@ -78,6 +90,10 @@
 }, {
     "speciesId": "primarina",
     "fastMove": "CHARM",
+    "chargedMoves": ["DISARMING_VOICE", "HYDRO_CANNON"]
+}, {
+    "speciesId": "primarina",
+    "fastMove": "WATERFALL",
     "chargedMoves": ["DISARMING_VOICE", "HYDRO_CANNON"]
 }, {
     "speciesId": "primarina",
@@ -111,7 +127,7 @@
 }, {
     "speciesId": "ursaluna",
     "fastMove": "TACKLE",
-    "chargedMoves": ["ICE_PUNCH", "HIGH_HORSEPOWER"]
+    "chargedMoves": ["SWIFT", "HIGH_HORSEPOWER"]
 }, {
     "speciesId": "dragapult",
     "fastMove": "ASTONISH",

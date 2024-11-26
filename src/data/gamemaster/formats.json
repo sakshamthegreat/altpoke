@@ -1,32 +1,5 @@
 [
 	{
-		"title": "Retro Cup",
-		"cup": "retro",
-		"cp": 1500,
-		"meta": "retro",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
-		"title": "Halloween Cup",
-		"cup": "halloween",
-		"cp": 1500,
-		"meta": "halloween",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
-		"title": "Willpower Cup",
-		"cup": "willpower",
-		"cp": 1500,
-		"meta": "willpower",
-		"showCup": true,
-		"showFormat": true,
-		"showMeta": true
-	},
-	{
 		"title": "Master League (Classic)",
 		"cup": "classic",
 		"cp": 10000,
@@ -59,8 +32,8 @@
 		"cup": "mega",
 		"cp": 10000,
 		"meta": "mastermega",
-		"showCup": false,
-		"showFormat": false,
+		"showCup": true,
+		"showFormat": true,
 		"showMeta": true
 	},
 	{
