@@ -10,6 +10,15 @@
 		"hideRankings": true
 	},
 	{
+		"title": "Fantasy Cup",
+		"cup": "fantasy",
+		"cp": 1500,
+		"meta": "fantasy",
+		"showCup": true,
+		"showFormat": true,
+		"showMeta": true
+	},
+	{
 		"title": "ML Overused",
 		"cup": "overused",
 		"cp": 10000,

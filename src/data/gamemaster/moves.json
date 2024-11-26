@@ -316,10 +316,13 @@
     "name": "Bulldoze",
     "abbreviation": "Bd",
     "type": "ground",
-    "power": 80,
-    "energy": 60,
+    "power": 45,
+    "energy": 40,
     "energyGain": 0,
     "cooldown": 500,
+    "buffs": [0, -1],
+    "buffTarget": "opponent",
+    "buffApplyChance": ".3",
     "archetype": "High Energy"
 }, {
     "moveId": "BULLET_PUNCH",
