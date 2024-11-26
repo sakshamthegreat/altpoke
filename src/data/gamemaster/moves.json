@@ -739,7 +739,7 @@
     "type": "fire",
     "power": 8,
     "energy": 0,
-    "energyGain": 5,
+    "energyGain": 6,
     "cooldown": 1000,
     "archetype": "Heavy Damage"
 }, {
@@ -1314,7 +1314,7 @@
     "type": "ice",
     "power": 8,
     "energy": 0,
-    "energyGain": 5,
+    "energyGain": 6,
     "cooldown": 1000,
     "archetype": "Heavy Damage"
 }, {
@@ -2778,7 +2778,7 @@
     "type": "electric",
     "power": 8,
     "energy": 0,
-    "energyGain": 5,
+    "energyGain": 6,
     "cooldown": 1000,
     "archetype": "Heavy Damage"
 }, {
