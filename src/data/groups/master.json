@@ -11,6 +11,10 @@
     "fastMove": "DRAGON_BREATH",
     "chargedMoves": ["DRAGON_CLAW", "SUPER_POWER"]
 }, {
+    "speciesId":"enamorus_incarnate",
+    "fastMove":"FAIRY_WIND",
+    "chargedMoves":["FLY","DAZZLING_GLEAM"]
+}, {
     "speciesId": "excadrill",
     "fastMove": "MUD_SLAP",
     "chargedMoves": ["ROCK_SLIDE", "DRILL_RUN"]
