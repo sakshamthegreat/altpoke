@@ -81,7 +81,7 @@
 }, {
     "speciesId": "gardevoir_mega",
     "fastMove": "CHARM",
-    "chargedMoves": ["SYNCHRONOISE", "SHADOW_BALL"]
+    "chargedMoves": ["TRIPLE_AXEL", "SHADOW_BALL"]
 }, {
     "speciesId": "diancie_mega",
     "fastMove": "ROCK_THROW",
@@ -221,7 +221,7 @@
 }, {
     "speciesId": "sceptile_mega",
     "fastMove": "BULLET_SEED",
-    "chargedMoves": ["LEAF_BLADE", "EARTHQUAKE"]
+    "chargedMoves": ["FRENZY_PLANT", "BREAKING_SWIPE"]
 }, {
     "speciesId": "swampert_mega",
     "fastMove": "MUD_SHOT",

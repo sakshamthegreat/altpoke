@@ -15,14 +15,14 @@
     "fastMove":"FAIRY_WIND",
     "chargedMoves":["FLY","DAZZLING_GLEAM"]
 }, {
-    "speciesId": "excadrill",
-    "fastMove": "MUD_SLAP",
-    "chargedMoves": ["ROCK_SLIDE", "DRILL_RUN"]
-}, {
     "speciesId": "garchomp",
     "fastMove": "MUD_SHOT",
     "chargedMoves": ["OUTRAGE", "EARTH_POWER"]
 }, {
+    "speciesId": "garchomp",
+    "fastMove": "DRAGON_TAIL",
+    "chargedMoves": ["OUTRAGE", "SAND_TOMB"]
+},{
     "speciesId": "giratina_altered",
     "fastMove": "SHADOW_CLAW",
     "chargedMoves": ["ANCIENT_POWER", "DRAGON_CLAW"]
@@ -50,14 +50,6 @@
     "speciesId": "mamoswine",
     "fastMove": "POWDER_SNOW",
     "chargedMoves": ["AVALANCHE", "HIGH_HORSEPOWER"]
-}, {
-    "speciesId": "melmetal",
-    "fastMove": "THUNDER_SHOCK",
-    "chargedMoves": ["DOUBLE_IRON_BASH", "SUPER_POWER"]
-}, {
-    "speciesId": "metagross",
-    "fastMove": "BULLET_PUNCH",
-    "chargedMoves": ["METEOR_MASH", "EARTHQUAKE"]
 }, {
     "speciesId": "mewtwo",
     "fastMove": "PSYCHO_CUT",
@@ -94,11 +86,7 @@
     "speciesId": "solgaleo",
     "fastMove": "FIRE_SPIN",
     "chargedMoves": ["PSYCHIC_FANGS", "IRON_HEAD"]
-}, {
-    "speciesId": "togekiss",
-    "fastMove": "CHARM",
-    "chargedMoves": ["ANCIENT_POWER", "AURA_SPHERE"]
-}, {
+},{
     "speciesId": "xerneas",
     "fastMove": "GEOMANCY",
     "chargedMoves": ["CLOSE_COMBAT", "MOONBLAST"]
